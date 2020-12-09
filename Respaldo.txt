@@ -1,0 +1,9 @@
+Kevin : Hola hay alguien aqui
+Adrian : Hola
+Juan : Hola
+Kevin : Hola
+Kevin : Como estan
+Adrian : Bien
+Juan : igual bien
+Kevin : Ya me voy adios
+Adrian : Yo igual
